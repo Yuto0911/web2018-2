@@ -1,6 +1,6 @@
 function txtchange1(){
-document.getElementByld('txt1').innerHTML='ナンバーワン！';
+document.getElementById('txt1').innerHTML='ナンバーワン！';
 }
 function imagechange1(){
-document.getElementByld('logo').src='./image/bulbon.gif';
+document.getElementById('logo').src='./image/publicdomainq-0013709zjn.jpg';
 }
